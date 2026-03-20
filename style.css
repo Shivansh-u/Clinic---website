@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f7fa;
+}
+
+header {
+  background: #0077b6;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.services, .contact {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #0077b6;
+}
